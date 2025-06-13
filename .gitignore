@@ -1,0 +1,34 @@
+# Pure Data external binaries (platform-specific)
+*.pd_linux
+*.pd_darwin
+*.dll
+*.pd_freebsd
+*.pd_netbsd
+*.pd_openbsd
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+obj/
+
+# Backup files
+*~
+*.bak
+*.orig
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
